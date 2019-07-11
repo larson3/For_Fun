@@ -1,0 +1,11 @@
+C:\Users\jlars\C# apps\signatureAnalysis\obj\Debug\netcoreapp2.2\signatureAnalysis.csprojAssemblyReference.cache
+C:\Users\jlars\C# apps\signatureAnalysis\obj\Debug\netcoreapp2.2\signatureAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\jlars\C# apps\signatureAnalysis\obj\Debug\netcoreapp2.2\signatureAnalysis.AssemblyInfoInputs.cache
+C:\Users\jlars\C# apps\signatureAnalysis\obj\Debug\netcoreapp2.2\signatureAnalysis.AssemblyInfo.cs
+C:\Users\jlars\C# apps\signatureAnalysis\bin\Debug\netcoreapp2.2\signatureAnalysis.deps.json
+C:\Users\jlars\C# apps\signatureAnalysis\bin\Debug\netcoreapp2.2\signatureAnalysis.runtimeconfig.json
+C:\Users\jlars\C# apps\signatureAnalysis\bin\Debug\netcoreapp2.2\signatureAnalysis.runtimeconfig.dev.json
+C:\Users\jlars\C# apps\signatureAnalysis\bin\Debug\netcoreapp2.2\signatureAnalysis.dll
+C:\Users\jlars\C# apps\signatureAnalysis\bin\Debug\netcoreapp2.2\signatureAnalysis.pdb
+C:\Users\jlars\C# apps\signatureAnalysis\obj\Debug\netcoreapp2.2\signatureAnalysis.dll
+C:\Users\jlars\C# apps\signatureAnalysis\obj\Debug\netcoreapp2.2\signatureAnalysis.pdb
