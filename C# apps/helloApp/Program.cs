@@ -39,6 +39,7 @@ namespace helloApp
                     concBytes += $"{newByte:X}";
                 }
                 Console.WriteLine(concBytes);
+				Console.WriteLine("Hello World");
             }
         }
     }
