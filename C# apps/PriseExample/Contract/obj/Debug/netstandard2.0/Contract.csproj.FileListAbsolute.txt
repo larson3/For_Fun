@@ -1,0 +1,9 @@
+C:\Users\jlars\git\For_Fun\C# apps\PriseExample\Contract\bin\Debug\netstandard2.0\Contract.deps.json
+C:\Users\jlars\git\For_Fun\C# apps\PriseExample\Contract\bin\Debug\netstandard2.0\Contract.dll
+C:\Users\jlars\git\For_Fun\C# apps\PriseExample\Contract\bin\Debug\netstandard2.0\Contract.pdb
+C:\Users\jlars\git\For_Fun\C# apps\PriseExample\Contract\obj\Debug\netstandard2.0\Contract.csprojAssemblyReference.cache
+C:\Users\jlars\git\For_Fun\C# apps\PriseExample\Contract\obj\Debug\netstandard2.0\Contract.csproj.CoreCompileInputs.cache
+C:\Users\jlars\git\For_Fun\C# apps\PriseExample\Contract\obj\Debug\netstandard2.0\Contract.AssemblyInfoInputs.cache
+C:\Users\jlars\git\For_Fun\C# apps\PriseExample\Contract\obj\Debug\netstandard2.0\Contract.AssemblyInfo.cs
+C:\Users\jlars\git\For_Fun\C# apps\PriseExample\Contract\obj\Debug\netstandard2.0\Contract.dll
+C:\Users\jlars\git\For_Fun\C# apps\PriseExample\Contract\obj\Debug\netstandard2.0\Contract.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Muro8bpeeqAoQ/IP4sdiK+UJCxQUgu52+IlWzRCxS3nBc/TmsKuDoKoBadTnMIz4WrmgXrVTkK2aCzipbYprtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jlars\\git\\For_Fun\\C# apps\\pluginTest\\PluginBase\\PluginBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

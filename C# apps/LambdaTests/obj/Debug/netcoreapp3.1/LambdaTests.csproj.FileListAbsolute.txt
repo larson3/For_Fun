@@ -1,0 +1,13 @@
+C:\Users\jlars\git\For_Fun\C# apps\LambdaTests\bin\Debug\netcoreapp3.1\LambdaTests.exe
+C:\Users\jlars\git\For_Fun\C# apps\LambdaTests\bin\Debug\netcoreapp3.1\LambdaTests.deps.json
+C:\Users\jlars\git\For_Fun\C# apps\LambdaTests\bin\Debug\netcoreapp3.1\LambdaTests.runtimeconfig.json
+C:\Users\jlars\git\For_Fun\C# apps\LambdaTests\bin\Debug\netcoreapp3.1\LambdaTests.runtimeconfig.dev.json
+C:\Users\jlars\git\For_Fun\C# apps\LambdaTests\bin\Debug\netcoreapp3.1\LambdaTests.dll
+C:\Users\jlars\git\For_Fun\C# apps\LambdaTests\bin\Debug\netcoreapp3.1\LambdaTests.pdb
+C:\Users\jlars\git\For_Fun\C# apps\LambdaTests\obj\Debug\netcoreapp3.1\LambdaTests.csprojAssemblyReference.cache
+C:\Users\jlars\git\For_Fun\C# apps\LambdaTests\obj\Debug\netcoreapp3.1\LambdaTests.csproj.CoreCompileInputs.cache
+C:\Users\jlars\git\For_Fun\C# apps\LambdaTests\obj\Debug\netcoreapp3.1\LambdaTests.AssemblyInfoInputs.cache
+C:\Users\jlars\git\For_Fun\C# apps\LambdaTests\obj\Debug\netcoreapp3.1\LambdaTests.AssemblyInfo.cs
+C:\Users\jlars\git\For_Fun\C# apps\LambdaTests\obj\Debug\netcoreapp3.1\LambdaTests.dll
+C:\Users\jlars\git\For_Fun\C# apps\LambdaTests\obj\Debug\netcoreapp3.1\LambdaTests.pdb
+C:\Users\jlars\git\For_Fun\C# apps\LambdaTests\obj\Debug\netcoreapp3.1\LambdaTests.genruntimeconfig.cache

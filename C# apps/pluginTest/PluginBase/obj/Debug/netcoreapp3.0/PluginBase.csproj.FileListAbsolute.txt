@@ -1,0 +1,9 @@
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\PluginBase\bin\Debug\netcoreapp3.0\PluginBase.deps.json
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\PluginBase\bin\Debug\netcoreapp3.0\PluginBase.dll
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\PluginBase\bin\Debug\netcoreapp3.0\PluginBase.pdb
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\PluginBase\obj\Debug\netcoreapp3.0\PluginBase.csprojAssemblyReference.cache
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\PluginBase\obj\Debug\netcoreapp3.0\PluginBase.csproj.CoreCompileInputs.cache
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\PluginBase\obj\Debug\netcoreapp3.0\PluginBase.AssemblyInfoInputs.cache
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\PluginBase\obj\Debug\netcoreapp3.0\PluginBase.AssemblyInfo.cs
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\PluginBase\obj\Debug\netcoreapp3.0\PluginBase.dll
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\PluginBase\obj\Debug\netcoreapp3.0\PluginBase.pdb

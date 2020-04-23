@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "FElAmGHdeeC63wOEtyJGZ+3RR9I8uIRo4O+gI3ma8ksOf5maxj4BmQ5B8kiTNMfzAC1G3uayMNaqYnbCsDcKwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jlars\\git\\For_Fun\\C# apps\\PriseExample\\MyHost\\MyHost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.0.0\\microsoft.dotnet.platformabstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.0\\microsoft.extensions.configuration.binder.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.0\\microsoft.extensions.dependencyinjection.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.0.0\\microsoft.extensions.dependencymodel.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.extensions.http\\3.0.0\\microsoft.extensions.http.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.extensions.logging\\3.0.0\\microsoft.extensions.logging.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\prise\\1.6.0\\prise.1.6.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

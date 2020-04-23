@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "btWIgZ9YjrAZrTMjgiVP0S3Wu81hwdu83brIY5g+87dfHf0Na190eZUK2lQ0Esa3PnLqyhtJ+inYoamz96oTWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jlars\\git\\For_Fun\\C# apps\\PriseExample\\Contract\\Contract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

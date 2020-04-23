@@ -1,0 +1,9 @@
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\HelloPlugin2\bin\Debug\netcoreapp3.0\HelloPlugin2.deps.json
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\HelloPlugin2\bin\Debug\netcoreapp3.0\HelloPlugin2.dll
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\HelloPlugin2\bin\Debug\netcoreapp3.0\HelloPlugin2.pdb
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\HelloPlugin2\obj\Debug\netcoreapp3.0\HelloPlugin2.csprojAssemblyReference.cache
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\HelloPlugin2\obj\Debug\netcoreapp3.0\HelloPlugin2.csproj.CoreCompileInputs.cache
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\HelloPlugin2\obj\Debug\netcoreapp3.0\HelloPlugin2.AssemblyInfoInputs.cache
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\HelloPlugin2\obj\Debug\netcoreapp3.0\HelloPlugin2.AssemblyInfo.cs
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\HelloPlugin2\obj\Debug\netcoreapp3.0\HelloPlugin2.dll
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\HelloPlugin2\obj\Debug\netcoreapp3.0\HelloPlugin2.pdb

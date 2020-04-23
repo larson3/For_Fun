@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jlars\\git\\For_Fun\\C# apps\\pluginTest\\HelloPlugin\\HelloPlugin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jlars\\git\\For_Fun\\C# apps\\pluginTest\\HelloPlugin\\HelloPlugin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jlars\\git\\For_Fun\\C# apps\\pluginTest\\HelloPlugin\\HelloPlugin.csproj",
+        "projectName": "HelloPlugin",
+        "projectPath": "C:\\Users\\jlars\\git\\For_Fun\\C# apps\\pluginTest\\HelloPlugin\\HelloPlugin.csproj",
+        "packagesPath": "C:\\Users\\jlars\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jlars\\git\\For_Fun\\C# apps\\pluginTest\\HelloPlugin\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jlars\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\jlars\\git\\For_Fun\\C# apps\\pluginTest\\PluginBase\\PluginBase.csproj": {
+                "projectPath": "C:\\Users\\jlars\\git\\For_Fun\\C# apps\\pluginTest\\PluginBase\\PluginBase.csproj",
+                "excludeAssets": "runtime"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jlars\\git\\For_Fun\\C# apps\\pluginTest\\PluginBase\\PluginBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jlars\\git\\For_Fun\\C# apps\\pluginTest\\PluginBase\\PluginBase.csproj",
+        "projectName": "PluginBase",
+        "projectPath": "C:\\Users\\jlars\\git\\For_Fun\\C# apps\\pluginTest\\PluginBase\\PluginBase.csproj",
+        "packagesPath": "C:\\Users\\jlars\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jlars\\git\\For_Fun\\C# apps\\pluginTest\\PluginBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jlars\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

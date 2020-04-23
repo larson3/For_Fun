@@ -1,0 +1,4 @@
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\obj\Debug\netcoreapp2.2\AppWithPlugin.csprojAssemblyReference.cache
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\obj\Debug\netcoreapp2.2\AppWithPlugin.csproj.CoreCompileInputs.cache
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\obj\Debug\netcoreapp2.2\AppWithPlugin.AssemblyInfoInputs.cache
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\obj\Debug\netcoreapp2.2\AppWithPlugin.AssemblyInfo.cs

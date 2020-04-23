@@ -1,0 +1,16 @@
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.exe
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.deps.json
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.runtimeconfig.json
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.runtimeconfig.dev.json
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.dll
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.pdb
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\bin\Debug\netcoreapp3.0\PluginBase.dll
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\bin\Debug\netcoreapp3.0\PluginBase.pdb
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csprojAssemblyReference.cache
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csproj.CoreCompileInputs.cache
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.AssemblyInfoInputs.cache
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.AssemblyInfo.cs
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csproj.CopyComplete
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.dll
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.pdb
+C:\Users\jlars\git\For_Fun\C# apps\pluginTest\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.genruntimeconfig.cache

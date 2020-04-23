@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hgyi/TbfRiZoZfqWeBwolCluh4VUmjFIbKTdPI+hQJnh+sXB3hjXYhlJWXr6+kKmjewNKnpGDXPkkgF8X7R0vA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jlars\\git\\For_Fun\\C# apps\\pluginTest\\HelloPlugin\\HelloPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\jlars\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
